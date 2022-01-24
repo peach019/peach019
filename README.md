@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peaches Ocampo
+- 👋 Hi, I’m Peaches Ocampo. I have completed my Post Degree Diploma in Data Analytics with more than 10 years of accounting and audit work experience
 - 👀 I’m interested in applying my accounting and data analytics skills in one role. I enjoy mystery games, soduku and other challenging games. It's nice to get pieces of all puzzles and see the overall picture just like in business analysis.
 - 🌱 I’m currently polishing my coding skills in Python, SQL and R and also data visualization presentation talent in Tableau, Power BI and MS Excel
 - 💞️ I’m looking to collaborate on more business analytics projects
